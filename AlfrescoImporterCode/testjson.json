@@ -1,0 +1,267 @@
+{
+  "totalRecords": 2,
+  "startIndex": 0,
+  "metadata": {
+    "repositoryId": "13d10c97-9bf8-4ed2-bade-097a57de1864",
+    "container": "workspace://SpacesStore/7309f976-d5c9-44ff-90c2-b61d58e3b31f",
+    "parent": {
+      "isLink": false,
+      "nodeRef": "workspace://SpacesStore/7309f976-d5c9-44ff-90c2-b61d58e3b31f",
+      "permissions": {
+        "inherited": false,
+        "roles": [
+          "ALLOWED;GROUP_site_test-export_SiteContributor;SiteContributor;DIRECT",
+          "ALLOWED;GROUP_site_test-export_SiteManager;SiteManager;DIRECT",
+          "ALLOWED;GROUP_site_test-export_SiteCollaborator;SiteCollaborator;DIRECT",
+          "ALLOWED;GROUP_site_test-export_SiteConsumer;SiteConsumer;DIRECT"
+        ],
+        "user": {
+          "Delete": true,
+          "Write": true,
+          "CancelCheckOut": false,
+          "ChangePermissions": true,
+          "CreateChildren": true,
+          "Unlock": false
+        }
+      },
+      "isLocked": false,
+      "aspects": [
+        "cm:tagscope",
+        "st:siteContainer",
+        "cm:ownable",
+        "cm:titled",
+        "cm:auditable",
+        "sys:referenceable",
+        "sys:localized"
+      ],
+      "isContainer": true,
+      "type": "cm:folder",
+      "properties": {
+        "cm:creator": {
+          "firstName": "Abdulrahman",
+          "lastName": "Mohammed Amer Murad",
+          "displayName": "Abdulrahman Mohammed Amer Murad",
+          "userName": "300168"
+        },
+        "cm:modifier": {
+          "firstName": "Abdulrahman",
+          "lastName": "Mohammed Amer Murad",
+          "displayName": "Abdulrahman Mohammed Amer Murad",
+          "userName": "300168"
+        },
+        "cm:created": {
+          "iso8601": "2022-02-10T15:29:43.644Z",
+          "value": "Thu Feb 10 18:29:43 GMT+03:00 2022"
+        },
+        "st:componentId": "documentLibrary",
+        "sys:store-protocol": null,
+        "sys:store-identifier": null,
+        "cm:owner": {
+          "firstName": "Administrator",
+          "lastName": "",
+          "displayName": "Administrator",
+          "userName": "admin"
+        },
+        "cm:description": "Document Library",
+        "sys:node-uuid": null,
+        "cm:name": "documentLibrary",
+        "cm:tagScopeCache": null,
+        "sys:node-dbid": null,
+        "sys:locale": null,
+        "cm:modified": {
+          "iso8601": "2022-02-10T15:35:54.769Z",
+          "value": "Thu Feb 10 18:35:54 GMT+03:00 2022"
+        }
+      }
+    },
+    "custom": {
+      "aos": {
+        "baseUrl": "https://ecm.isdb.org/alfresco/aos"
+      },
+      "vtiServer": null
+    },
+    "onlineEditing": false,
+    "itemCounts": {
+      "folders": 2,
+      "documents": 0
+    },
+    "workingCopyLabel": " (Working Copy)"
+  },
+  "items": [
+    {
+      "node": {
+        "isLink": false,
+        "nodeRef": "workspace://SpacesStore/dbba6a64-3cf4-416f-897e-d363bc320ec3",
+        "permissions": {
+          "inherited": true,
+          "roles": [
+            "ALLOWED;GROUP_site_test-export_SiteManager;SiteManager;INHERITED",
+            "ALLOWED;GROUP_site_test-export_SiteContributor;SiteContributor;INHERITED",
+            "ALLOWED;GROUP_site_test-export_SiteCollaborator;SiteCollaborator;INHERITED",
+            "ALLOWED;GROUP_site_test-export_SiteConsumer;SiteConsumer;INHERITED"
+          ],
+          "user": {
+            "Delete": true,
+            "Write": true,
+            "CancelCheckOut": false,
+            "ChangePermissions": true,
+            "CreateChildren": true,
+            "Unlock": false
+          }
+        },
+        "isLocked": false,
+        "aspects": [
+          "cm:copiedfrom",
+          "cm:titled",
+          "cm:auditable",
+          "sys:referenceable",
+          "cm:taggable",
+          "sys:localized"
+        ],
+        "isContainer": true,
+        "type": "cm:folder",
+        "properties": {
+          "cm:title": "AfDB",
+          "cm:creator": {
+            "firstName": "Abdulrahman",
+            "lastName": "Mohammed Amer Murad",
+            "displayName": "Abdulrahman Mohammed Amer Murad",
+            "userName": "300168"
+          },
+          "cm:modifier": {
+            "firstName": "Abdulrahman",
+            "lastName": "Mohammed Amer Murad",
+            "displayName": "Abdulrahman Mohammed Amer Murad",
+            "userName": "300168"
+          },
+          "cm:created": {
+            "iso8601": "2022-02-10T15:35:51.884Z",
+            "value": "Thu Feb 10 18:35:51 GMT+03:00 2022"
+          },
+          "sys:store-protocol": null,
+          "sys:store-identifier": null,
+          "cm:taggable": null,
+          "cm:description": "",
+          "sys:node-uuid": null,
+          "cm:name": "AfDB Publications",
+          "sys:node-dbid": null,
+          "sys:locale": null,
+          "cm:modified": {
+            "iso8601": "2022-02-10T15:35:53.209Z",
+            "value": "Thu Feb 10 18:35:53 GMT+03:00 2022"
+          }
+        }
+      },
+      "version": "1.0",
+      "webdavUrl": "/webdav/Sites/test-export/documentLibrary/AfDB%20Publications",
+      "isFavourite": false,
+      "likes": {
+        "isLiked": false,
+        "totalLikes": 0
+      },
+      "location": {
+        "repositoryId": "13d10c97-9bf8-4ed2-bade-097a57de1864",
+        "site": {
+          "name": "test-export",
+          "title": "Test Export",
+          "preset": "site-dashboard"
+        },
+        "container": {
+          "name": "documentLibrary",
+          "type": "cm:folder",
+          "nodeRef": ""
+        },
+        "path": "/",
+        "repoPath": "/Sites/test-export/documentLibrary",
+        "file": "AfDB Publications",
+        "parent": {}
+      }
+    },
+    {
+      "node": {
+        "isLink": false,
+        "nodeRef": "workspace://SpacesStore/cf3cd6e1-7425-4ab0-9192-bef4bfc14081",
+        "permissions": {
+          "inherited": true,
+          "roles": [
+            "ALLOWED;GROUP_site_test-export_SiteManager;SiteManager;INHERITED",
+            "ALLOWED;GROUP_site_test-export_SiteContributor;SiteContributor;INHERITED",
+            "ALLOWED;GROUP_site_test-export_SiteCollaborator;SiteCollaborator;INHERITED",
+            "ALLOWED;GROUP_site_test-export_SiteConsumer;SiteConsumer;INHERITED"
+          ],
+          "user": {
+            "Delete": true,
+            "Write": true,
+            "CancelCheckOut": false,
+            "ChangePermissions": true,
+            "CreateChildren": true,
+            "Unlock": false
+          }
+        },
+        "isLocked": false,
+        "aspects": [
+          "cm:titled",
+          "cm:auditable",
+          "sys:referenceable",
+          "sys:localized"
+        ],
+        "isContainer": true,
+        "type": "cm:folder",
+        "properties": {
+          "cm:title": "Arabic Titles Title",
+          "cm:creator": {
+            "firstName": "Abdulrahman",
+            "lastName": "Mohammed Amer Murad",
+            "displayName": "Abdulrahman Mohammed Amer Murad",
+            "userName": "300168"
+          },
+          "cm:modifier": {
+            "firstName": "Abdulrahman",
+            "lastName": "Mohammed Amer Murad",
+            "displayName": "Abdulrahman Mohammed Amer Murad",
+            "userName": "300168"
+          },
+          "cm:created": {
+            "iso8601": "2022-02-10T15:32:50.154Z",
+            "value": "Thu Feb 10 18:32:50 GMT+03:00 2022"
+          },
+          "cm:name": "Arabic Titles",
+          "sys:store-protocol": null,
+          "sys:node-dbid": null,
+          "sys:store-identifier": null,
+          "sys:locale": null,
+          "cm:modified": {
+            "iso8601": "2022-02-10T15:35:35.243Z",
+            "value": "Thu Feb 10 18:35:35 GMT+03:00 2022"
+          },
+          "cm:description": "",
+          "sys:node-uuid": null
+        }
+      },
+      "version": "1.0",
+      "webdavUrl": "/webdav/Sites/test-export/documentLibrary/Arabic%20Titles",
+      "isFavourite": false,
+      "likes": {
+        "isLiked": false,
+        "totalLikes": 0
+      },
+      "location": {
+        "repositoryId": "13d10c97-9bf8-4ed2-bade-097a57de1864",
+        "site": {
+          "name": "test-export",
+          "title": "Test Export",
+          "preset": "site-dashboard"
+        },
+        "container": {
+          "name": "documentLibrary",
+          "type": "cm:folder",
+          "nodeRef": ""
+        },
+        "path": "/",
+        "repoPath": "/Sites/test-export/documentLibrary",
+        "file": "Arabic Titles",
+        "parent": {}
+      }
+    }
+  ]
+}
