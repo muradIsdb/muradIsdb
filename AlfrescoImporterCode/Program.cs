@@ -36,8 +36,8 @@ namespace AlfrescoImporterCode
             logger.Info("Application Started");
             Console.Write("Application Started....");
 
-            var DoMigration =  MigrateChildren("09a50944-fc11-4beb-b251-a304123efe60", ""); //main folder
-            //var DoMigration = MigrateChildren("7309f976-d5c9-44ff-90c2-b61d58e3b31f", "");
+            //var DoMigration =  MigrateChildren("09a50944-fc11-4beb-b251-a304123efe60", ""); //main DocumentLibrary
+            var DoMigration = MigrateChildren("7309f976-d5c9-44ff-90c2-b61d58e3b31f", ""); // Test DocumentLibrary
             DoMigration.Wait();
             logger.Info("Application Ended");
             logger.Info("Total Number of Folder is: " + totalNumberFolder.ToString());

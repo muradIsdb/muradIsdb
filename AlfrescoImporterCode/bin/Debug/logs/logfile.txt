@@ -1,0 +1,4 @@
+2022-02-17 16:09:19.8315 AlfrescoImporterCode.Program Application Started
+2022-02-17 16:28:48.4255 AlfrescoImporterCode.Program Application Ended
+2022-02-17 16:28:48.4282 AlfrescoImporterCode.Program Total Number of Folder is: 2
+2022-02-17 16:28:48.4282 AlfrescoImporterCode.Program Total Number of Document is: 67
